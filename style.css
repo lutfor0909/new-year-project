@@ -1,0 +1,100 @@
+  
+ .centered{
+    position: absolute;
+    top: 30%;
+    right: 10%;
+    margin-left: 450px;
+ }
+ .heading{
+    text-align: right;
+    margin-left: 400px;
+    font-family: Arial, Helvetica, sans-serif;
+ }
+ .heading-title{
+    text-align:end;
+    margin-left: 350px;
+ }
+ .btn-color{
+    color: white;
+    font-size: 18px;
+    background-color: #F75D0B;
+    border: none;
+    height: 40px;
+    width: 120px;
+    border-radius: 5px;
+ }
+ .person{
+   display: flex;
+   margin: 100px 200px;
+ }
+ .year{
+   margin: 50px 30px ;
+ }
+ .year-title{
+   margin: 5px 150px;
+ }
+ .year-description{
+   margin:5px 150px;
+ }
+ .right{
+   margin: 10px 130px;
+ }
+ .plans{
+   text-align: center;
+   font-family: Arial;
+ }
+.icons{
+   display: flex;
+   margin:30px 200px 30px 30px;
+
+}
+.title{
+   margin: 100px;
+   text-align: center;
+}
+.centered1{
+   position:relative;
+   top: 40%;
+   left: 10%;
+    
+}
+.heading1{
+    margin:50px;
+   color: rgb(249, 7, 7); 
+}
+.btn-color1{
+   font-size: 20px;
+   background-color: tomato;
+   border-radius: 10px;
+   border: none;
+   height: 40px;
+   width: 150px;
+   color: aliceblue;
+}
+ .footer{
+   margin-top: 100px;
+   display: flex;
+   height: 300px;
+   background-color: green;
+   border-radius: 20px;
+ }
+  .footer-future{
+      font: white;
+      margin: 50px;
+      text-align: center;
+  }
+  .footer-subscriber{
+   margin: 100px 300px;
+   text-align: right;
+   
+}
+.btn-primary{
+   background-color: rgb(245, 5, 5);
+   border-radius: 10px;
+   height:20px;
+   width:20px;
+   margin: 10px;
+   border: none;
+}
+
+   
